@@ -1,0 +1,7 @@
+Creating remote repositories
+You can use the git remote add command to match a remote URL with a name. For example, you'd type the following in the command line:
+
+git remote add origin <REMOTE_URL>
+This associates the name origin with the REMOTE_URL.
+
+You can use the command git remote set-url to change a remote's URL.
